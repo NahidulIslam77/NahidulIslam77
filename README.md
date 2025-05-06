@@ -7,3 +7,9 @@ I enjoy coding. I'm a beginner in competitive programming, I first got into it t
 Outside of programming, I’m a big fan of cricket, football, and tennis. In my free time, I love playing football and listening to music. 
 
 I’m deeply interested in Machine Learning, AI, and web development. The idea of building intelligent systems that can solve real world problems excites me and I’m passionate about exploring these areas further in the future. 
+
+🔗 Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/nahidul-islam-730139339)  
+[Facebook](https://www.facebook.com/share/1EdVz9yt64/)  
+[Instagram](https://www.instagram.com/nahidul3732)  
