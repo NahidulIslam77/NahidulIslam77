@@ -8,8 +8,9 @@ Outside of programming, I’m a big fan of cricket, football, and tennis. In my 
 
 I’m deeply interested in Machine Learning, AI, and web development. The idea of building intelligent systems that can solve real world problems excites me and I’m passionate about exploring these areas further in the future. 
 
-🔗 Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/nahidul-islam-730139339)  
-[Facebook](https://www.facebook.com/share/1EdVz9yt64/)  
-[Instagram](https://www.instagram.com/nahidul3732)  
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidul-islam-730139339)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EdVz9yt64/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nahidul3732)
